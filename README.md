@@ -1,5 +1,5 @@
 # Type Visualizer
-A type hierarchy visualizer for Java types. You can add types to the board by entering their fully qualified name, and you can drag them around once they've been added.
+A type hierarchy visualizer for Java types. You can add types to the board by entering their fully qualified name, and you can drag them around once they've been added. Note: This app was originally created in September 2020 but was not uploaded to GitHub until October 2021.
 
 ![SimpleArrayList](https://user-images.githubusercontent.com/60260374/137635244-de3b4fe7-7356-46ff-b64b-3ae014433bef.PNG)
 
