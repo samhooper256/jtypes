@@ -23,7 +23,7 @@ public class Main extends Application{
 		BorderPane root = new BorderPane(board.getRoot());
 		root.setBottom(new BottomMenu());
 		Scene scene = new Scene(root, DEFAULT_WINDOW_WIDTH, DEFAULT_WINDOW_HEIGHT);
-		primaryStage.initStyle(StageStyle.DECORATED);
+		primaryStage.setTitle("Type Visualizer");
 		primaryStage.setScene(scene);
 		primaryStage.show();
 	}
